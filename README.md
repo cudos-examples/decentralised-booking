@@ -1,9 +1,9 @@
-# Debook
+# Decentralized Booking
 
 ### Steps to build contract
 
 1. Build the contract with `cargo wasm`.
-2. Then proceed to deployment on Cudos.
+2. Then proceed to deployment on Cudos. For comprehensive guide for deployment follow the [documentation](https://docs.cudos.org/docs/build/tutorials/counter/deploy-counter).
 
 ### Steps to run
 
